@@ -1,0 +1,6 @@
+{
+  "name": "JustDan Bakehouse",
+  "description": "24/7 automated artisan bread kiosks & bakery. Stone-baked sourdough, focaccia, and warm brioche in 3 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
